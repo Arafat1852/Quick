@@ -1,0 +1,17 @@
+/*##Device = Tablets, Ipads (portrait)*/
+@media (min-width: 768px) and (max-width: 1024px) {
+.logo img {padding-left: 20px !important;}
+.menu{width: 69% !important;}
+.header{border-bottom: none !important;}
+.banner{width: 116% !important;height: 80vh !important;}
+.banner-design h1{line-height: 60px !important;}
+.banner-design h1 span{line-height: 65px !important;}
+.banner-design p{line-height: 30px !important;font-size: 21px !important;padding-bottom: 50px !important;}
+.right h1{padding-left: 10px !important;}
+.last-part{width: 116% !important;}
+.banner-design h1{margin-top: 75px !important;}
+}
+/*##Device = Most of the Smartphones Mobiles (Portrait)*/
+@media (min-width: 320px) and (max-width: 480px) {
+.banner{height: 65vh !important;}
+}
